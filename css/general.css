@@ -27,7 +27,7 @@ Paragraph default: 1.6
 - Tints: #fdf2e9 #fae5d3 #eb984e
 - Shades: #cf711f #45260a
 - Accents:
-- Greys: #6f6f6f #555 #333
+- Greys: #888 #767676 #6f6f6f #555 #333
 
 --- 05 SHADOWS
 
@@ -260,12 +260,4 @@ body {
 
 strong {
   font-weight: 500;
-}
-
-/***************************/
-/* FOOTER */
-/***************************/
-
-.footer {
-  padding: 9.6rem 0;
 }
