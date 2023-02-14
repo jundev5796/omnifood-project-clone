@@ -11,6 +11,7 @@
   /* Because we want the header to be sticky later */
   height: 9.6rem;
   padding: 0 48px;
+  position: relative;
 }
 
 .logo {
